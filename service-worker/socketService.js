@@ -1,5 +1,5 @@
 import { Server } from "socket.io";
-import Room from "../models/Room.js";
+import Room from "../models/room.js";
 
 let io;
 
